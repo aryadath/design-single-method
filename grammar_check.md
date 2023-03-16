@@ -27,13 +27,13 @@ _Make a list of examples of what the method will take and return._
 ```ruby
 # EXAMPLE
 
-# 1
-grammar_check('')
-=> false
+# # 1
+# grammar_check('')
+# => false
 
-# 2
-grammar_check('This is the best day ever.')
-=> true
+# # 2
+# grammar_check('This is the best day ever.')
+# => true
 
 # 3 
 grammar_check('This is the best day ever')
